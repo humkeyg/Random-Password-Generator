@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Random Password Generator
 
 ## Your Task
@@ -37,3 +38,12 @@ THEN the password is either displayed in an alert or written to the page
 The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+=======
+# Week_3_Homework
+Random Password Generator
+![Screenshot](https://user-images.githubusercontent.com/87458845/135698805-e14e3c17-8676-4582-82c3-e8269bae18eb.PNG)
+
+This generator starts by clicking the "generate password" button, which then triggers a series of prompts asking to confirm the number of characters, whether or not to include symbols, lowercase, uppercase, and number characters.
+
+I used javascript functions and if/else to confirm what criteria will be included. I also manually created each option possibility for the number of criteria selected from 1-4 amounts.
+>>>>>>> 5630f2c8d5df60385674db9d8788c543dabe0a2d
