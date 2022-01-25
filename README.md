@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Random Password Generator
 
-Link to application: https://humkeyg.github.io/Week_3_Homework/
+Link to application: https://humkeyg.github.io/Random-Password-Generator/
 
 ## Your Task
 
