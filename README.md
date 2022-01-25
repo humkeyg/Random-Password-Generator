@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Random Password Generator
 
+Link to application: https://humkeyg.github.io/Week_3_Homework/
+
 ## Your Task
 
 An application that enables users to generate random passwords based on criteria that they’ve selected. This app runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. 
